@@ -1,0 +1,19 @@
+{"CanvasProjectsMRU":[
+  {
+    "Id": "-1",
+    "Name": "New Collage",
+    "FilePath": "Select group of files to use in Collage",
+    "ImagePath": "Assets/DarkGray.png",
+    "Pictures":
+    [
+      {
+        "Id": "1",
+        "ImagePath": "Assets/LightGray.png",
+		"Top": 100,
+		"Left": 100,
+		"Rotation": 0
+      }
+    ]
+  }
+]
+}
